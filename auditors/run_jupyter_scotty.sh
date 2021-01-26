@@ -18,7 +18,7 @@ echo -e "
 
 ## start an ipcluster instance and launch jupyter server
 # At PNI, use pyger
-module load pyger
+module load pyger/0.11.0
 #module load Langs/Python/3.5-anaconda
 #module load Pypkgs/brainiak/0.5-anaconda
 #module load Pypkgs/NILEARN/0.4.0-anaconda
